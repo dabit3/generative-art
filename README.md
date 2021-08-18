@@ -1,6 +1,8 @@
 ## Generative Masks - How it's done
 
-This is an example to show how the [Generative Masks]() project works by putting the project in a separate, deployable Git repo.
+This is an example to show how the [Generative Masks](https://opensea.io/collection/generativemasks) project works by putting the project in a separate, deployable Git repo.
+
+The code was created by [takawo shunsuke](https://twitter.com/takawo) using [https://p5js.org/](https://p5js.org/)
 
 ### Deployment options
 
