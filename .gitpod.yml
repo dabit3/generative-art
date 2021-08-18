@@ -1,0 +1,3 @@
+tasks:
+  - name: Start server
+    init: python -m SimpleHTTPServer
